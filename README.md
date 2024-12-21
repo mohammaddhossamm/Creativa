@@ -42,9 +42,21 @@ The Creativa mobile application allows its users to register for courses and tra
 ### Creativa UI
 #### Overview
 <div style="display: flex; gap: 10px; justify-content: center;">
- <img src=https://i.postimg.cc/jjMC7hG3/crea.jpg" height="300">
+ <img src="https://i.postimg.cc/jjMC7hG3/crea.jpg" height="300">
 <img src="https://i.postimg.cc/NjwD01qr/creat.jpg"  height="300">
- 
 </div>
 
+#### Splash
+<img src="https://i.postimg.cc/nV9cFm1x/Screenshot-20241221-163519.png" width="200">
+
+#### OnBording
+<div style="display: flex; gap: 10px; justify-content: center;">
+ <img src="https://i.postimg.cc/y6tnwMLj/Screenshot-20241219-182219.png" width="200">
+<img src="https://i.postimg.cc/rwCJRKMZ/Screenshot-20241219-182251.png"  width="200">
+<img src="https://i.postimg.cc/7YgH7ycQ/Screenshot-20241221-163527.png"  width="200">
+<img src="https://i.postimg.cc/YCRtnzt6/Screenshot-20241221-163545.png"  width="200">
+<img src="https://i.postimg.cc/P5TtQRnf/Screenshot-20241221-163602.png"  width="200">
+<img src="https://i.postimg.cc/nLF14pLF/Screenshot-20241219-182301.png"  width="200">
+
+</div>
 
