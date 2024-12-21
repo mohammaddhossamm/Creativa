@@ -42,8 +42,8 @@ The Creativa mobile application allows its users to register for courses and tra
 ### Creativa UI
 #### Overview
 <div style="display: flex; gap: 10px; justify-content: center;">
- <img src=https://i.postimg.cc/jjMC7hG3/crea.jpg" width="500">
-<img src="https://i.postimg.cc/NjwD01qr/creat.jpg" width="500">
+ <img src=https://i.postimg.cc/jjMC7hG3/crea.jpg" width="500" height="500">
+<img src="https://i.postimg.cc/NjwD01qr/creat.jpg" width="500" height="500">
  
 </div>
 
