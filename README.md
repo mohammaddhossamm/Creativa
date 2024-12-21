@@ -91,7 +91,6 @@ The Creativa mobile application allows its users to register for courses and tra
  <img src="https://i.postimg.cc/qRgqX3rJ/Screenshot-20241219-181309.png" width="200">
  <img src="https://i.postimg.cc/3NvwzQWz/Screenshot-20241219-181319.png" width="200">
  <img src="https://i.postimg.cc/XX6vb1Cq/Screenshot-20241219-181345.png" width="200">
- <img src="" width="200">
 </div>
 
 
