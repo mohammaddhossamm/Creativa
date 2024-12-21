@@ -42,10 +42,11 @@ The Creativa mobile application allows its users to register for courses and tra
 #### UI
 * Responsive UI for optimal user experience across devices.
 
-<p float="left">
+<div style="display: flex; gap: 10px; justify-content: center;">
  <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="700" height="600">
 <img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="700" height="466">
   <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="700" height="600">
 <img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="700" height="466">
-</p>
+</div>
+
 
