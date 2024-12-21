@@ -39,22 +39,12 @@ The Creativa mobile application allows its users to register for courses and tra
 * **Settings Storage:** Handled by shared_preferences for saving user preferences.
 * **Navigation and Routing:** Simplified with go_router.
 
-#### UI
-* Responsive UI for optimal user experience across devices.
-
+### Creativa UI
+#### Overview
 <div style="display: flex; gap: 10px; justify-content: center;">
- <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="200">
-<img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="200">
-  <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="200">
-<img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="200" >
- <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="200">
-<img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="200">
-  <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="200">
-<img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="200" >
- <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="200">
-<img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="200">
-  <img src="https://i.postimg.cc/76vktDWq/hello-world.jpg" width="200">
-<img src="https://i.postimg.cc/qBn87QkZ/hellow2.jpg" width="200" >
+ <img src=https://i.postimg.cc/jjMC7hG3/crea.jpg" width="500">
+<img src="https://i.postimg.cc/NjwD01qr/creat.jpg" width="500">
+ 
 </div>
 
 
