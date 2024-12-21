@@ -40,16 +40,16 @@ The Creativa mobile application allows its users to register for courses and tra
 * **Navigation and Routing:** Simplified with go_router.
 
 ### Creativa UI
-#### Overview
+* #### Overview
 <div style="display: flex; gap: 10px; justify-content: center;">
  <img src="https://i.postimg.cc/jjMC7hG3/crea.jpg" height="300">
 <img src="https://i.postimg.cc/NjwD01qr/creat.jpg"  height="300">
 </div>
 
-#### Splash
+* #### Splash View
 <img src="https://i.postimg.cc/nV9cFm1x/Screenshot-20241221-163519.png" width="200">
 
-#### OnBording
+* #### OnBording View
 <div style="display: flex; gap: 10px; justify-content: center;">
  <img src="https://i.postimg.cc/y6tnwMLj/Screenshot-20241219-182219.png" width="200">
 <img src="https://i.postimg.cc/rwCJRKMZ/Screenshot-20241219-182251.png"  width="200">
@@ -57,6 +57,41 @@ The Creativa mobile application allows its users to register for courses and tra
 <img src="https://i.postimg.cc/YCRtnzt6/Screenshot-20241221-163545.png"  width="200">
 <img src="https://i.postimg.cc/P5TtQRnf/Screenshot-20241221-163602.png"  width="200">
 <img src="https://i.postimg.cc/nLF14pLF/Screenshot-20241219-182301.png"  width="200">
-
 </div>
+
+* #### Sign up View
+<div style="display: flex; gap: 10px; justify-content: center;">
+ <img src="https://i.postimg.cc/QtM94zQr/d.png" width="200">
+ <img src="https://i.postimg.cc/brnzmXvr/Screenshot-20241221-163725.png" width="200">
+ <img src="https://i.postimg.cc/HxRY0WdF/Screenshot-20241221-163749.png" width="200">
+ <img src="https://i.postimg.cc/QtHNWKGp/Screenshot-20241221-163806.png" width="200">
+ <img src="https://i.postimg.cc/xCFkWP5N/Screenshot-20241219-163301.png" width="200">
+ <img src="https://i.postimg.cc/br7ZvNKz/Screenshot-20241219-163317.png" width="200">
+ <img src="https://i.postimg.cc/HncJH7vZ/Screenshot-20241219-163447.png" width="200">
+ <img src="https://i.postimg.cc/6Q6pt1Mb/Screenshot-20241221-163919.png" width="200">
+</div>
+
+* #### Login View
+ <img src="https://i.postimg.cc/Gmxp01xs/Screenshot-20241221-163939.png" width="200">
+ 
+* #### Home & Details View
+<div style="display: flex; gap: 10px; justify-content: center;">
+ <img src="https://i.postimg.cc/WbZDHgkt/Screenshot-20241219-181105.png" width="200">
+ <img src="https://i.postimg.cc/kgdV3GQs/Screenshot-20241219-181115.png" width="200">
+</div>
+
+* #### Search View
+ <img src="https://i.postimg.cc/mrLtkn6F/Screenshot-20241219-181137.png" width="200">
+
+* #### Favourite View
+ <img src="https://i.postimg.cc/mgNPb4Vs/Screenshot-20241219-181124.png" width="200">
+
+* #### Settings View
+<div style="display: flex; gap: 10px; justify-content: center;">
+ <img src="https://i.postimg.cc/qRgqX3rJ/Screenshot-20241219-181309.png" width="200">
+ <img src="https://i.postimg.cc/3NvwzQWz/Screenshot-20241219-181319.png" width="200">
+ <img src="https://i.postimg.cc/XX6vb1Cq/Screenshot-20241219-181345.png" width="200">
+ <img src="" width="200">
+</div>
+
 
